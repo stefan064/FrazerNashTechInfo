@@ -9,7 +9,7 @@ This information is shared with the aim of preserving the efforts made towards i
 
 Please use your own caution, judgement and precautions when using this information. Be sure to use a fuse at least for the battery supply, etc.
 
-The internal circuit board has a several trimpots that might allow for adjusting various characteristics of the controller. This could be 
+The internal circuit board has a several trimpots that might allow for adjusting various characteristics of the controller.  No further work was done towards this. 
 
 # Specifications
 - Make: Frazer-Nash
